@@ -1,4 +1,5 @@
 #Q1
+
 import numpy as np
 a=np.random.random(10).reshape(10,1)
 mean=np.mean(a)
